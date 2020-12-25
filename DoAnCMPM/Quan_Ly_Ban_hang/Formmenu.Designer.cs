@@ -1,6 +1,6 @@
 ﻿namespace Quan_Ly_Ban_hang
 {
-    partial class formMENU
+    partial class Formmenu
     {
         /// <summary>
         /// Required designer variable.
