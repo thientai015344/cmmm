@@ -1,0 +1,10 @@
+C:\Users\Tai\source\repos\DoAnCMPM\thientai015344\cmmm\DoAnCMPM\Quan_Ly_Ban_hang\bin\Debug\Quan_Ly_Ban_hang.exe.config
+C:\Users\Tai\source\repos\DoAnCMPM\thientai015344\cmmm\DoAnCMPM\Quan_Ly_Ban_hang\bin\Debug\Quan_Ly_Ban_hang.exe
+C:\Users\Tai\source\repos\DoAnCMPM\thientai015344\cmmm\DoAnCMPM\Quan_Ly_Ban_hang\bin\Debug\Quan_Ly_Ban_hang.pdb
+C:\Users\Tai\source\repos\DoAnCMPM\thientai015344\cmmm\DoAnCMPM\Quan_Ly_Ban_hang\obj\Debug\Quan_Ly_Ban_hang.csprojAssemblyReference.cache
+C:\Users\Tai\source\repos\DoAnCMPM\thientai015344\cmmm\DoAnCMPM\Quan_Ly_Ban_hang\obj\Debug\Quan_Ly_Ban_hang.FormĐăng_Nhập.resources
+C:\Users\Tai\source\repos\DoAnCMPM\thientai015344\cmmm\DoAnCMPM\Quan_Ly_Ban_hang\obj\Debug\Quan_Ly_Ban_hang.Properties.Resources.resources
+C:\Users\Tai\source\repos\DoAnCMPM\thientai015344\cmmm\DoAnCMPM\Quan_Ly_Ban_hang\obj\Debug\Quan_Ly_Ban_hang.csproj.GenerateResource.cache
+C:\Users\Tai\source\repos\DoAnCMPM\thientai015344\cmmm\DoAnCMPM\Quan_Ly_Ban_hang\obj\Debug\Quan_Ly_Ban_hang.csproj.CoreCompileInputs.cache
+C:\Users\Tai\source\repos\DoAnCMPM\thientai015344\cmmm\DoAnCMPM\Quan_Ly_Ban_hang\obj\Debug\Quan_Ly_Ban_hang.exe
+C:\Users\Tai\source\repos\DoAnCMPM\thientai015344\cmmm\DoAnCMPM\Quan_Ly_Ban_hang\obj\Debug\Quan_Ly_Ban_hang.pdb

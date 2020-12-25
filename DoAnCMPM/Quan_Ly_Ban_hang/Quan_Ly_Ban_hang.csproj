@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Formmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formmenu.Designer.cs">
+      <DependentUpon>Formmenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormĐăng_Nhập.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +60,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formmenu.resx">
+      <DependentUpon>Formmenu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormĐăng_Nhập.resx">
       <DependentUpon>FormĐăng_Nhập.cs</DependentUpon>
     </EmbeddedResource>
