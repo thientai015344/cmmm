@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Form1dxhgcjkvjmkcv.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,6 +59,8 @@
     <Compile Include="Formabc.Designer.cs">
       <DependentUpon>Formabc.cs</DependentUpon>
     </Compile>
+=======
+>>>>>>> cc9c15a2b9ae41f4113e4e8d2d298a450a099738
     <Compile Include="Formmenu.cs">
       <SubType>Form</SubType>
     </Compile>

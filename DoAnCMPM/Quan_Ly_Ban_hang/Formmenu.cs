@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Quan_Ly_Ban_hang
 {
-    public partial class formMENU : Form
+    public partial class Formmenu : Form
     {
-        public formMENU()
+        public Formmenu()
         {
             InitializeComponent();
         }
